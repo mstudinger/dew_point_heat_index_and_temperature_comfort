@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 # specific files to ignore
-dew_point_heat_index_and_temperature_comfort_develop.ipynb
+develop_*.ipynb
+develop_*.py
 
 # C extensions
 *.so
