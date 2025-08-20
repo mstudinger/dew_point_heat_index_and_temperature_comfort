@@ -6,6 +6,9 @@ __pycache__/
 # specific files to ignore
 develop_*.ipynb
 develop_*.py
+save_this_*.ipynb
+save_this_*.py
+save_this_dew_point_heat_index_and_temperature_comfort.ipynb
 
 # C extensions
 *.so
