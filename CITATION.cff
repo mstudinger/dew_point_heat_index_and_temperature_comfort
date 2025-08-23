@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Studinger"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0003-1265-4741"
+title: "Calculation of dew point based on temperature and relative humidity, and plotted with human comfort categories"
+version: 1.0.1
+doi: https://doi.org/10.5281/zenodo.16930453
+date-released: 2025-08-22
+url: "https://github.com/mstudinger/dew_point_heat_index_and_temperature_comfort"
